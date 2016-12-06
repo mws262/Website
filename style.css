@@ -50,7 +50,6 @@ aside li{
 }
 
 article {
-    border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
     color: var(--charcoal);
